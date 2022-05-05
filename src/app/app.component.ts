@@ -11,4 +11,8 @@ export class AppComponent {
   thisDay=Date.now();
   word="Aspire Systems";
   money=500;
+  user={
+    name:'Sanjitha',
+    age:21
+  }
 }
